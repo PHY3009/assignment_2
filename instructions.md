@@ -2,15 +2,29 @@
 ### Putting a project under version control
 **due at 12 noon on 2015-10-28** via Github
 
-## Instructions
+## Instructions for completing the assignment
 
 Use your computational cookie cutter script to create a project directory for your Final 
 Project and put this project under version control locally and remotely using Git & Github.
 
-* Create a local and remote Git/Github repository for the student's Final Project.
-* The README in the project's root directory should contain the project title, the students name and the date. These changes should be versioned (*i.e.,* added and committed to Git).
-* The student should choose a license for their project and add this information to the LICENSE.md file. This change should be versioned. See [this page](http://swcarpentry.github.io/git-novice/11-licensing.html) from Software Carpentry for some general info about Software licenses.
-* Commit messages should be meaningful, see [this blog post](https://www.connectivedx.com/thinking/posts/2015/02/guidelines-better-github-messages) for hints/tips.
+## Instructions for submitting assignment
+
+1. To start, [**fork**](https://guides.github.com/activities/forking/) the [repository](https://github.com/PHY3009/assignment_2).
+
+2. [**Clone**](http://gitref.org/creating/#clone) the repository to your computer.
+
+3. Run your cookie cutter script in your local repository and [**add**](http://gitref.org/basic/#add) and [**commit**](http://gitref.org/basic/#commit) changes to Git.
+
+4. Modify the README in the project's root directory so that it contains the project title, the students name and the date. These changes should be versioned (*i.e.,* added and committed to Git).
+
+5. Choose a license for the project and add this information to the LICENSE.md file. This change should be versioned. See [this page](http://swcarpentry.github.io/git-novice/11-licensing.html) from Software Carpentry for some general info about Software licenses.
+
+6. [**Push**](http://gitref.org/remotes/#push) the changes up to your copy of the repository on GitHub.
+
+7. [Create a **pull request**](https://help.github.com/articles/creating-a-pull-request/) on the original repository to turn in the assignment.
+
+Note: Commit messages should be meaningful, see [this blog post](https://www.connectivedx.com/thinking/posts/2015/02/guidelines-better-github-messages) for hints/tips.
+
 
 ## Grading rubric
 
