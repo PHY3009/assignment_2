@@ -1,1 +1,2 @@
-This is the root directory, containing subdirectories for a new computational physics project.
+#Computational Physics Final Project
+Project created by Sabrina DeSoto 10-27-2015 
