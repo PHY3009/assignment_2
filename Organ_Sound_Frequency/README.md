@@ -1,1 +1,4 @@
-Notes about my project
+##Organ Sound Frequency
+Talia Martz-Oberlander
+October 27th, 2015
+
