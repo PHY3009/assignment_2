@@ -1,6 +1,6 @@
 mkdir Computation_Project
 cd Computation_Project  
-touch LICENSE.md
+echo "License text" >> LICENSE.md
 echo "2015-10-26, Anders Hornor. This is a set of directories designed to be used as a template for future computational projects. Each Section is logicalally organized with some room for future chromological organization." >> README.md
 mkdir src bin doc experiment
 echo "2015-10-26, Anders Hornor. This directory is designed to store Source Code." >> src/README.md
