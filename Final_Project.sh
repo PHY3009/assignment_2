@@ -1,6 +1,6 @@
 
-##Transportation of Environmental Contaminants in Water and Soil
-# Jhanelle Williams October 28, 2015
+#Transportation of Environmental Contaminants in Water and Soil
+## Jhanelle Williams October 28, 2015
 
 
 This project is a script which will run to create a directory structure for
