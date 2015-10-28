@@ -3,6 +3,12 @@
 # Jhanelle Williams October 28, 2015
 
 
+This project is a script which will run to create a directory structure for
+computational projects
+
+This is to create subdirectories: data, manuscript, bin and results
+
+
 
 License
 
